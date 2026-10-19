@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-977-contracts-add-compute-score-cooldown",
+    "fix/issue-977-compute-score-cooldown-test",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-977-contracts-add-compute-score-cooldown": "main",
+    "fix/issue-977-compute-score-cooldown-test": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-977-contracts-add-compute-score-cooldown",
+    "fix/issue-977-compute-score-cooldown-test",
+    "origin"
+  ]
+}
